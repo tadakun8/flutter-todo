@@ -1,16 +1,13 @@
-# flutter_todo
+# flutter-todo
 
-A new Flutter project.
+I have created a todo app written by the following website.
+- https://www.flutter-study.dev/todo-app/about-todo-app
 
-## Getting Started
+## Demo
+![flutter-dodo](https://user-images.githubusercontent.com/64715484/135704454-5db3833f-92a1-4a06-ab64-4af6aa3b3623.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Technical element
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Frontend : Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
